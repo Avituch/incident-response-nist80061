@@ -1,0 +1,5 @@
+# Escenario del Incidente
+
+Durante el monitoreo de seguridad, se detectan múltiples intentos de acceso fallidos seguidos de un acceso exitoso desde una IP no reconocida hacia un servidor interno.
+
+El análisis preliminar indica posible compromiso de credenciales y acceso no autorizado a información sensible.
